@@ -12,6 +12,14 @@ body {
 header {
   height: 80px;
   background: #2E3A46;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+.select-wrapper label {
+  color: white;
+  padding-right: 5px;
 }
 .logo-wrapper{
   height: 100%;
