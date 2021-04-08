@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1E2D3B;
+}
+
+header {
+  height: 80px;
+  background: #2E3A46;
+}
+.logo-wrapper{
+  height: 100%;
+  padding: 5px;
+}
+
+header .logo {
+  height: 100%;
+}
+.container {
+  margin: auto;
+
+}
